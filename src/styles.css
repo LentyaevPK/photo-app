@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+}
+
+button {
+    display: block;
+    margin: 20px;
+}
+
+img {
+    margin: 15px;
+}
+
+.more__btn {
+    margin: 20px auto;    
+}
+
+.album__filter {
+    height: 15px;
+}
